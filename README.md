@@ -3,7 +3,12 @@
 
 <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
+ </a> 
+</p>
+
+![gargoyle92 GitHub stats](https://github-readme-stats.vercel.app/api?username=gargoyle92&count_private=true)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargoyle92&show_icons=true&locale=en&layout=compact" alt="gargoyle92" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gargoyle92&show_icons=true&locale=en&count_private=true" alt="gargoyle92" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargoyle92&" alt="gargoyle92" /></p>
