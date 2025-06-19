@@ -3,7 +3,7 @@
 <h3 align="left">🧠 A Product-driven Full-stack Engineer & Product Owner.</h3>
 
 
-<p align="left">From user problems to scalable products — I lead with clarity, code, and customer insight</p>
+<p align="left">From user problems to scalable products — I lead with clarity, code, and customer insight.</p>
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
