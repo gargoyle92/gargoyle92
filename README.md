@@ -9,6 +9,6 @@
 
 ![gargoyle92 GitHub stats](https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&count_private=true)
 
-<p><img align="left" src="https://github-readme-stats.gargoyle92.vercel.app/api/top-langs?username=gargoyle92&show_icons=true&locale=en&layout=compact" alt="gargoyle92" /></p>
+<p><img align="left" src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&show_icons=true&locale=en&layout=compact" alt="gargoyle92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargoyle92&" alt="gargoyle92" /></p>
