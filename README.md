@@ -13,7 +13,7 @@
 
 <h3 align="left">🧭 About Me</h3>
 
-I’m a **product-first technologist** who thrives at the intersection of business, design, and engineering.
+I’m a **product-first technologist** who thrives at the intersection of business, design, and engineering.  
 With over 11 years of experience — from startup founding to platform scaling — I specialize in turning abstract problems into actionable, validated solutions.
 As a **Product Owner**, I lead **cross-functional teams** to:
 - Define sharp product problems
