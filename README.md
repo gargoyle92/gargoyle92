@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Hanjune Lee (a.k.a gargoyle)</h2>
 
-<h3 align="left">🧠 A Product-driven Full-stack Engineer, Technical Entrepreneur & Product Owner.</h3>
+<h3 align="left">🧠 A Product-driven Full-stack Engineer & Product Owner.</h3>
 
 
 <p align="left">From user problems to scalable products — I lead with clarity, code, and customer insight</p>
