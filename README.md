@@ -7,7 +7,7 @@
  </a> 
 </p>
 
-![gargoyle92 GitHub stats](https://github-readme-stats.vercel.app/api?username=gargoyle92&count_private=true)
+![gargoyle92 GitHub stats](https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&count_private=true)
  
 
 <h3 align="left">Connect with me:</h3>
