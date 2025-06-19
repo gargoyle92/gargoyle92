@@ -1,27 +1,20 @@
 <h2 align="left">Hi 👋, I'm Hanjune Lee (a.k.a gargoyle)</h2>
 
-###
-
 <h3 align="left">🧠 A Product-driven Full-stack Engineer, Technical Entrepreneur & Product Owner.</h3>
 
-###
 
 <p align="left">From user problems to scalable products — I lead with clarity, code, and customer insight</p>
 
-###
-
 <div align="left">
-<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
-<img src="[https://github-profile-trophy.vercel.app/?username=gargoyle92](https://github-profile-trophy.vercel.app/?username=gargoyle92)" alt="gargoyle92" />
-</a>
-<img align="left" src="[https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true](https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true)"/>
-<img align="left" src="[https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92](https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92)" alt="gargoyle92" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true"/>
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&" alt="gargoyle92" />
 </div>
-###
+
+<div style="clear: both;"></div>
 
 <h3 align="left">🧭 About Me</h3>
 
-###
 
 <p align="left">I’m a **product-first technologist** who thrives at the intersection of business, design, and engineering.<br><br>With over 11 years of experience — from startup founding to platform scaling — I specialize in turning abstract problems into actionable, validated solutions.<br><br>As a **Product Owner**, I lead **cross-functional teams** to:<br>- Define sharp product problems<br>- Prioritize what matters<br>- Build experiments fast<br>- Validate with data and users<br><br>And as a **Full-stack Engineer**, I build systems that scale — cleanly and efficiently.</p>
 
