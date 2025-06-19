@@ -8,33 +8,36 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
   <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true"/>
-  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&" alt="gargoyle92" />
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=400" alt="gargoyle92" />
 </div>
-
-<div style="clear: both;"></div>
 
 <h3 align="left">🧭 About Me</h3>
 
-
-<p align="left">I’m a **product-first technologist** who thrives at the intersection of business, design, and engineering.<br><br>With over 11 years of experience — from startup founding to platform scaling — I specialize in turning abstract problems into actionable, validated solutions.<br><br>As a **Product Owner**, I lead **cross-functional teams** to:<br>- Define sharp product problems<br>- Prioritize what matters<br>- Build experiments fast<br>- Validate with data and users<br><br>And as a **Full-stack Engineer**, I build systems that scale — cleanly and efficiently.</p>
-
-###
+I’m a **product-first technologist** who thrives at the intersection of business, design, and engineering.
+With over 11 years of experience — from startup founding to platform scaling — I specialize in turning abstract problems into actionable, validated solutions.
+As a **Product Owner**, I lead **cross-functional teams** to:
+- Define sharp product problems
+- Prioritize what matters
+- Build experiments fast
+- Validate with data and users And as a **Full-stack Engineer**, I build systems that scale — cleanly and efficiently.
 
 <h3 align="left">🚀 What I Focus On</h3>
 
-###
+- 🔍 Clear problem discovery and hypothesis validation
+- ⚡ Fast product iterations with measurable impact
+- 📊 Data-informed decisions using real-time product analytics
+- 🤝 Leading teams to execute with purpose and momentum
+- 🧱 Designing scalable, maintainable system architectures
 
-<p align="left">- 🔍 Clear problem discovery and hypothesis validation  <br>- ⚡ Fast product iterations with measurable impact  <br>- 📊 Data-informed decisions using real-time product analytics  <br>- 🤝 Leading teams to execute with purpose and momentum  <br>- 🧱 Designing scalable, maintainable system architectures</p>
-
-###
 
 <h3 align="left">🧩 Principles I Believe In</h3>
 
-###
+- **Build for impact**, not just output
+- **Speed matters**, but clarity wins
+- **Technology is a tool**, purpose comes first
+- **Team > Individual** — sustainable growth is always a team sport
+- **Ship > Perfect** — validated learning is more valuable than polished speculation
 
-<p align="left">- **Build for impact**, not just output  <br>- **Speed matters**, but clarity wins  <br>- **Technology is a tool**, purpose comes first  <br>- **Team > Individual** — sustainable growth is always a team sport  <br>- **Ship > Perfect** — validated learning is more valuable than polished speculation</p>
-
-###
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
