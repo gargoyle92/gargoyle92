@@ -7,8 +7,8 @@
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
-  <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true"/>
-  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=400" alt="gargoyle92" />
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92"/>
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=320" alt="gargoyle92" />
 </div>
 
 <h3 align="left">🧭 About Me</h3>
