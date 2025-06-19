@@ -7,7 +7,7 @@
  </a> 
 </p>
 
-![gargoyle92 GitHub stats](https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&count_private=true)
+![gargoyle92 GitHub stats](https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92&show_icons=true)
 
 <p><img align="left" src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&show_icons=true&locale=en&layout=compact" alt="gargoyle92" /></p>
 
