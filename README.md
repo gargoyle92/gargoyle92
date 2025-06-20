@@ -5,11 +5,6 @@
 
 <p align="left">From user problems to scalable products — I lead with clarity, code, and customer insight.</p>
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
-  <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92"/>
-  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=320" alt="gargoyle92" />
-</div>
 
 <h3 align="left">🧭 About Me</h3>
 
@@ -38,6 +33,13 @@ As a **Product Owner**, I lead **cross-functional teams** to:
 - **Team > Individual** — sustainable growth is always a team sport
 - **Ship > Perfect** — validated learning is more valuable than polished speculation
 
+
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=gargoyle92" alt="gargoyle92" />
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api?username=gargoyle92"/>
+  <img src="https://github-readme-stats-gargoyle92.vercel.app/api/top-langs?username=gargoyle92&locale=en&hide_title=false&layout=compact&card_width=320" alt="gargoyle92" />
+</div>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
