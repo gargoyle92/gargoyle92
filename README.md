@@ -31,7 +31,7 @@ As a **Product Owner**, I lead **cross-functional teams** to:
 - **Speed matters**, but clarity wins
 - **Technology is a tool**, purpose comes first
 - **Team > Individual** — sustainable growth is always a team sport
-- **Ship > Perfect** — validated learning is more valuable than polished speculation
+- **Delivery > Perfect** — validated learning is more valuable than polished speculation
 
 
 
