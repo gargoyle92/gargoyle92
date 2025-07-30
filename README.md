@@ -46,7 +46,7 @@ As a **Product Owner**, I lead **cross-functional teams** to:
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="6" />
